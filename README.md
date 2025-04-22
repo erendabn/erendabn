@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erendabn
-- 👀 I’m interested in photography
-- 🌱 I’m currently learning C language and photography
+- 👀 I’m third year computer enginnering student
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eren.daban@hotmail.com or instagram @erendabn
 
